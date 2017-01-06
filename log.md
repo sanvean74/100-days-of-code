@@ -9,3 +9,6 @@ Day 2 - January 2, 2017 :
     
   Day 4 - January 4, 2017 :
     Worked on last code-along project on Udemy Web Dev Bootcamp Bootstrap module. Can't wait to get back to javascript tomorrow!
+
+  Day 5 - January 5, 2017 :
+    Started javascript module. Worked on Primitives, Variables, and Null & Undefined exercises. 
