@@ -12,3 +12,6 @@ Day 2 - January 2, 2017 :
 
   Day 5 - January 5, 2017 :
     Started javascript module. Worked on Primitives, Variables, and Null & Undefined exercises. 
+    
+  Day 6 - January 6, 2017 :
+    Continied work on the Javascript Basics: Control Flow module. Created a guessing game pate, and got through loops. 
